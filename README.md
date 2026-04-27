@@ -1,4 +1,4 @@
-# SearchAI 🔍
+# searchAI 🔍
 
 A Perplexity-inspired AI search assistant that answers questions using live web results. Ask anything, get sourced answers, and continue the conversation with full memory.
 
@@ -35,7 +35,7 @@ A Perplexity-inspired AI search assistant that answers questions using live web 
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/yourusername/searchai.git
+git clone https://github.com/0xdanyal/searchAI.git
 cd searchai
 ```
 
