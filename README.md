@@ -2,8 +2,6 @@
 
 A Perplexity-inspired AI search assistant that answers questions using live web results. Ask anything, get sourced answers, and continue the conversation with full memory.
 
-![SearchAI Hero](public/screenshots/hero.png)
-
 ## Features
 
 - 🌐 **Live web search** powered by Tavily API
