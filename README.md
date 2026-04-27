@@ -36,7 +36,7 @@ A Perplexity-inspired AI search assistant that answers questions using live web 
 
 ```bash
 git clone https://github.com/0xdanyal/searchAI.git
-cd searchai
+cd searchAI
 ```
 
 ### 2. Install dependencies
